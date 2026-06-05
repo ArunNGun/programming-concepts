@@ -1,6 +1,10 @@
 # Express.js — Deep Dive
 _Added: 2026-06-05_
 
+## Topics
+- [Middleware](./README.md)
+- [JWT Authentication](./jwt-auth.md)
+
 ---
 
 ## Middleware
